@@ -1,4 +1,4 @@
-# DES (Date Encryption Standard)
+# DES (Date Encryption Standard) Implementation
 
 **Authors:** Leo Martinez III
 

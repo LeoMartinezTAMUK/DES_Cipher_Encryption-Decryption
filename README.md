@@ -34,8 +34,6 @@ applied.
 
 
 Here is a brief explanation of the items:
-- **src:** folder that contains the source code python script: main.py (use this file to run the program)
+- **src:** folder that contains the source code C++ script (.cpp) and the corresponding compiled .exe version.
 - **README.md:** contains most basic information about the project
 - **LICENSE:** Contains license information in regards to the Github repository
-
-Additionally, ensure the "math" python is properly installed in your virtual environment as the .gcd() method is needed to ensure error checking to assist with decryption integrity.

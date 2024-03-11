@@ -1,7 +1,5 @@
-// Project 2 DES (Data Encryption Standard) Block Cipher
+// DES (Data Encryption Standard) Block Cipher
 // Key Generation, Encryption, Decryption
-// CSEN 4340 Computer Security
-// Leo Martinez III - K00475695
 
 // Background Information about DES:
 // DES is a Symmetric Block Cipher (same key used for decryption as encryption).

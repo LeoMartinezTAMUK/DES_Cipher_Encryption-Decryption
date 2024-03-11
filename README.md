@@ -28,8 +28,6 @@ applied.
 
 - Use the same DES algorithm, but reverse the key order of the generated keys
 
-- Example values for ciphertext and plaintext are provided for testing purposes.
-
 ### Note:
 
 - Program was created in VS Code using C++

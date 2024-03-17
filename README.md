@@ -34,6 +34,7 @@ applied.
 
 
 Here is a brief explanation of the items:
-- **src:** folder that contains the source code C++ script (.cpp) and the corresponding compiled .exe version.
+- **src:** folder that contains the source code C++ script (.cpp)
+- **bin** contains the corresponding compiled .exe version.
 - **README.md:** contains most basic information about the project
 - **LICENSE:** Contains license information in regards to the Github repository

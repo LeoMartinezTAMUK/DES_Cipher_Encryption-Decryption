@@ -10,7 +10,7 @@
 
 This C++ program implements the DES Cipher, a type of block cipher, for encrypting and decrypting messages.
 
-### Description:
+### Encryption:
 
 - The DES_Encrypt.cpp/.exe script takes a plaintext and a 56-bit key as input. 
 - It performs an initial permutation (IP) on the 64-bit plaintext. 

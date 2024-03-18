@@ -1,5 +1,6 @@
 // DES (Data Encryption Standard) Block Cipher
 // Key Generation, Encryption, Decryption
+// Created by: Leo Martinez III in Spring 2024
 
 // Background Information about DES:
 // DES is a Symmetric Block Cipher (same key used for decryption as encryption).

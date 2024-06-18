@@ -1,6 +1,6 @@
 # DES (Date Encryption Standard) Implementation
 
-**Authors:** Leo Martinez III
+**Authors:** Leo Martinez III - [LinkedIn](https://www.linkedin.com/in/leo-martinez-iii/)
 
 **Contact:** [leo.martinez@students.tamuk.edu](mailto:leo.martinez@students.tamuk.edu)
 
